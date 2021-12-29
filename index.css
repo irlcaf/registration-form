@@ -1,0 +1,55 @@
+#bootstrap-overrides.container{
+    margin-top:  50px ;
+    width: 600px;
+}
+.page-wrapper{
+    padding-top: 120px;
+    padding-bottom: 120px;
+    background: linear-gradient(to right, #C59E67 0%, #8D6528 100% );
+    
+}
+
+.input-style-1{
+    line-height:50px;
+}
+.radio-container{
+    font-size: 16px;
+}
+
+.card {
+   padding: 60px 60px;
+}
+
+#card-id.card{
+    box-shadow: 0px 8px 20px 0px rgba(0,0,0,0.15);
+    border-radius: 10px;
+}
+
+.input-group{
+    margin-bottom: 25px;
+}
+
+.title{
+    margin-bottom: 40px;
+}
+
+.p-t-5{
+    padding-top: 6px;
+}
+
+.body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight:400;
+    font-size:14px;
+    height: 100vh;
+}
+
+.form-label{
+    color:#555;
+}
+
+*{
+    margin:0;
+    padding:0;
+}
+
